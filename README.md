@@ -2,7 +2,7 @@
 ### made by vaccat <3
 ### powered by shibe.online
 
-made in C#
+made in C# <br>
 features:
  - download shibas
  - multithreading
