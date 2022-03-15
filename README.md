@@ -1,7 +1,7 @@
 ### SHIBADUMPER
-made by vaccat <3
-powered by shibe.online
-made in C#
+made by vaccat <3<br>
+powered by shibe.online<br>
+made in C#<br>
 <br>
 <br>
 features:
