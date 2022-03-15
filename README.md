@@ -9,3 +9,4 @@ features:
  - multithreading
  - sort files
  - not actually download duplicates this time lol
+ - the code is super messy
